@@ -1,2 +1,3 @@
-# realtime-cv-suite-
-Real-time computer vision &amp; spatial hand-tracking apps built with Python, OpenCV, YOLOv8, and MediaPipe
+# Mac Computer Vision Playground
+
+Real-time AI computer vision apps built with Python, OpenCV, YOLOv8, and MediaPipe.
